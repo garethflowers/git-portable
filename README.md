@@ -8,7 +8,7 @@ Git Portable is the Git version control system packaged with a PortableApps.com 
 * [PortableApps.com Platform](http://portableapps.com/download) (Optional)
 
 ## Credits
-mar
+
 * Git Portable is a redistribution of [Git for Windows](https://github.com/msysgit/git).
 
 ## License
