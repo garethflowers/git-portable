@@ -8,10 +8,10 @@ Git Portable is the Git version control system packaged with a PortableApps.com 
 * [PortableApps.com Platform](http://portableapps.com/download) (Optional)
 
 ## Credits
-
-* Git Portable is a redistribution of the [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html).
+mar
+* Git Portable is a redistribution of [Git for Windows](https://github.com/msysgit/git).
 
 ## License
 
 * Portable application code released under [the MIT license](LICENSE).
-* The Msysgit is released under [the LGPL v2.1 license](GitPortable\App\Git\LICENSE).
+* The Msysgit is released under [the LGPL v2.1 license](GitPortable/App/Git/LICENSE).
