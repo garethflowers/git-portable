@@ -8,9 +8,9 @@ with you wherever you go.
 
 ## Download
 
-All other downloads are available [in the Releases
-section][https://github.com/garethflowers/git-portable/releases/latest]. Git
-Portable is packaged as an online installer and complete zip file.
+All other downloads are available
+[in the Releases section](https://github.com/garethflowers/git-portable/releases/latest).
+Git Portable is packaged as an online installer and complete zip file.
 
 ## System Requirements
 
